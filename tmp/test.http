@@ -1,0 +1,2 @@
+GET http://localhost:8000/api/user/5
+Accept: aplication/json
